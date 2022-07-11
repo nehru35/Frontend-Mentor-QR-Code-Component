@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 *,
 *::after,
 *::before {
@@ -14,8 +16,7 @@
 }
 
 body {
-    /* importe font-family here */
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Outfit', sans-serif;
     width: 100%;
     height: calc(100vh - 1px);
     background-color: hsl(212, 45%, 89%);
@@ -25,9 +26,9 @@ body {
 }
 
 main.container {
-    width: 90%;
-    height: 375px;
-    max-width: 375px;
+    width: 95%;
+    max-width: 300px;
+    height: 450px;
     padding: 10px;
     border: none;
     border-radius: 10px;
@@ -52,7 +53,7 @@ figure.img img {
 
 div.content {
     text-align: center;
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
 }
 
