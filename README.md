@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/nehru35/QR-Code-Component-Main)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/nehru35/Frontend-Mentor-QR-Code-Component)
+- Live Site URL: [Netlify](https://fronten-mentor-qrcode.netlify.app/)
 
 ## My process
 
@@ -23,6 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Nehrú André](https://nehruandre.netlify.app)
+- Website - [Nehrú André](https://nehruandre.netlify.app/)
 - Frontend Mentor - [@nehru35](https://www.frontendmentor.io/profile/nehru35)
-- Twitter - [@nehru_andre](https://twitter.com/nehru_andre)
+- LinkedIn - [Nehrú André](https://www.linkedin.com/in/nehr%C3%BA-andr%C3%A9-12b428231/)
